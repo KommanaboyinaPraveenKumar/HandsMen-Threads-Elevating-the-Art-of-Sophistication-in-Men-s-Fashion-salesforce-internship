@@ -1,0 +1,66 @@
+# Project Phases – HandsMen Threads Salesforce Internship
+
+This document outlines the key phases of the Salesforce implementation project at HandsMen Threads. Each phase focuses on a specific set of activities to ensure a structured and successful rollout.
+
+---
+
+## Phase 1: Architecture & Planning
+
+- Define custom and standard objects, fields, and their relationships  
+- Create formula fields to support calculated data  
+- Establish validation rules to ensure data quality  
+- Design automation using Flows and Apex Triggers  
+- Plan asynchronous processes using Batch Apex jobs  
+- Design email templates for:
+  - Order confirmations  
+  - Loyalty updates  
+  - Stock alerts  
+
+---
+
+## Phase 2: Development
+
+- Implement objects and fields in Salesforce  
+- Build automation logic using:
+  - Flows  
+  - Process Builder (if applicable)  
+  - Apex Triggers  
+- Configure:
+  - Data security settings  
+  - Role hierarchy and sharing rules  
+- Develop batch jobs for nightly bulk operations  
+- Set up email notifications and related workflows  
+
+---
+
+## Phase 3: Testing & QA
+
+- Perform unit testing for:
+  - Apex classes  
+  - Flows and triggers  
+- Conduct end-to-end testing with realistic sample data  
+- Validate system performance and security compliance  
+- Test all scheduled processes and exception handling  
+
+---
+
+## Phase 4: Deployment & Training
+
+- Deploy metadata to the production environment using change sets or deployment tools  
+- Train end-users and stakeholders on:
+  - New functionalities  
+  - UI navigation  
+  - Operational processes  
+- Provide post-deployment monitoring and support for:
+  - Bug fixes  
+  - Feedback incorporation  
+  - Usage tracking  
+
+---
+
+## Deliverable
+
+- **Solution Design Document** including:
+  - Object Model  
+  - Entity Relationship Diagram (ERD)  
+  - Automation Strategy (Flows, Apex Triggers, Batch Jobs)  
