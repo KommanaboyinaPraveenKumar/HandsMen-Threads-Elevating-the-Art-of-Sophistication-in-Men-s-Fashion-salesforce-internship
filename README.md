@@ -39,6 +39,12 @@ Maintaining **data integrity directly from the user interface (UI)** is central 
 
 - **Record-Triggered Flows**  
   Automate processes with flows triggered by data changes.
+  
+- **Apex & Apex Triggers**  
+  Dive into Salesforce's backend development using Apex programming and custom triggers.
+
+- **Asynchronous Apex**  
+  Handle long-running or batch processes efficiently using asynchronous methods.
   # Project Phases – HandsMen Threads Salesforce Internship
 
 This document outlines the key phases of the Salesforce implementation project at HandsMen Threads. Each phase focuses on a specific set of activities to ensure a structured and successful rollout.
@@ -100,9 +106,4 @@ This document outlines the key phases of the Salesforce implementation project a
 ---
 
 
-- **Apex & Apex Triggers**  
-  Dive into Salesforce's backend development using Apex programming and custom triggers.
-
-- **Asynchronous Apex**  
-  Handle long-running or batch processes efficiently using asynchronous methods.
 
