@@ -1,5 +1,4 @@
-# HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-salesforce-internship
-# HandsMen Threads - Elevating the Art of Sophistication in Men's Fashion  
+# HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-salesforce-internship 
 ## Salesforce Internship Project
 
 **HandsMen Threads**, a dynamic organization in the fashion industry, is embarking on a **Salesforce project** designed to revolutionize their data management and enhance customer relations. The project focuses on building a robust data model to store all pertinent business data, ensuring a seamless flow of information across the organization.
